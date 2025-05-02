@@ -9,3 +9,28 @@ Step 3: Add the file path of HKUST_F.osm to the RayTracing_cqi.py;
 Step 4: Add the RayTracing results to the WA_DS_KB.py for network slicing;
 Step 5: Output the network slicing results.
 
+
+Please stay tuned for updates and feel free to reach out if you have any questions or need further information.
+
+
+## License
+
+WirelessAgent<sup>2</sup> is MIT-licensed. The license applies to the pre-trained models and datasets as well.
+
+## Citation
+
+If you find the repository is helpful to your project, please cite as follows:
+
+```bibtex
+@article{tong2024wirelessagent,
+  title={Wirelessagent: Large language model agents for intelligent wireless networks},
+  author={Tong, Jingwen and Shao, Jiawei and Wu, Qiong and Guo, Wei and Li, Zijian and Lin, Zehong and Zhang, Jun},
+  journal={arXiv preprint arXiv:2409.07964},
+  year={2024}
+}
+```
+
+## Acknowledgment
+
+This code is done with the help of large language models, such as the Claude-3.7-Sonnet-Reasoning and DeepSeek-R1 models.
+
