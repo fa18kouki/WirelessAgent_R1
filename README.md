@@ -24,7 +24,7 @@ If you find the repository is helpful to your project, please cite as follows:
 ```bibtex
 @article{tong2024wirelessagent,
   title={Wirelessagent: Large language model agents for intelligent wireless networks},
-  author={Tong, Jingwen and Shao, Jiawei and Wu, Qiong and Guo, Wei and Li, Zijian and Lin, Zehong and Zhang, Jun},
+  author={Tong, Jingwen and Guo, Wei and Shao, Jiawei and Wu, Qiong  and Li, Zijian and Lin, Zehong and Zhang, Jun},
   journal={arXiv preprint arXiv:2409.07964},
   year={2024}
 }
