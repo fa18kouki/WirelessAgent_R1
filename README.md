@@ -3,11 +3,11 @@ The rapid evolution of wireless networks presents unprecedented challenges in ma
 
 ## Implementation 
 
-- The implementation steps of the WirelessAgent can be found in the [video](https://youtu.be/4fqADkT_XMc) and the [paper](https://arxiv.org/pdf/2505.01074).
+- The implementation steps of the WirelessAgent can be found in the [Video](https://youtu.be/4fqADkT_XMc) and the [Paper](https://arxiv.org/pdf/2505.01074).
 
 - A GUI example of the WirelessAgent-enabled network slicing can be found in a Poe [canvas](https://poe.com/WirelessAgent-EN02).
 
--  We have summarized the main implementation details below:
+- The implementation details are summarized below:
 
 
 Step 1: Go to the OpenStreetMap website to download the "HKUST" map;
